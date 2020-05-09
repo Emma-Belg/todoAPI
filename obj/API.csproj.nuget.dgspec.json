@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emma/Documents/C#/API/todoAPI/API.csproj": {}
+    "/home/emma/Documents/C#/API/TodoAPI/API.csproj": {}
   },
   "projects": {
-    "/home/emma/Documents/C#/API/todoAPI/API.csproj": {
+    "/home/emma/Documents/C#/API/TodoAPI/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emma/Documents/C#/API/todoAPI/API.csproj",
+        "projectUniqueName": "/home/emma/Documents/C#/API/TodoAPI/API.csproj",
         "projectName": "API",
-        "projectPath": "/home/emma/Documents/C#/API/todoAPI/API.csproj",
+        "projectPath": "/home/emma/Documents/C#/API/TodoAPI/API.csproj",
         "packagesPath": "/home/emma/.nuget/packages/",
-        "outputPath": "/home/emma/Documents/C#/API/todoAPI/obj/",
+        "outputPath": "/home/emma/Documents/C#/API/TodoAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emma/.nuget/NuGet/NuGet.Config"

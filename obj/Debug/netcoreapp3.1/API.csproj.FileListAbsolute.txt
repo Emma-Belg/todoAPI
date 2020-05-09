@@ -53,10 +53,10 @@
 /home/emma/Documents/C#/API/API/obj/Debug/netcoreapp3.1/API.dll
 /home/emma/Documents/C#/API/API/obj/Debug/netcoreapp3.1/API.pdb
 /home/emma/Documents/C#/API/API/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
-/home/emma/Documents/C#/API/todoAPI/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
-/home/emma/Documents/C#/API/todoAPI/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
-/home/emma/Documents/C#/API/todoAPI/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
-/home/emma/Documents/C#/API/todoAPI/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
-/home/emma/Documents/C#/API/todoAPI/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
-/home/emma/Documents/C#/API/todoAPI/obj/Debug/netcoreapp3.1/API.dll
-/home/emma/Documents/C#/API/todoAPI/obj/Debug/netcoreapp3.1/API.pdb
+/home/emma/Documents/C#/API/TodoAPI/obj/Debug/netcoreapp3.1/API.csprojAssemblyReference.cache
+/home/emma/Documents/C#/API/TodoAPI/obj/Debug/netcoreapp3.1/API.csproj.CoreCompileInputs.cache
+/home/emma/Documents/C#/API/TodoAPI/obj/Debug/netcoreapp3.1/API.MvcApplicationPartsAssemblyInfo.cache
+/home/emma/Documents/C#/API/TodoAPI/obj/Debug/netcoreapp3.1/API.AssemblyInfoInputs.cache
+/home/emma/Documents/C#/API/TodoAPI/obj/Debug/netcoreapp3.1/API.AssemblyInfo.cs
+/home/emma/Documents/C#/API/TodoAPI/obj/Debug/netcoreapp3.1/API.dll
+/home/emma/Documents/C#/API/TodoAPI/obj/Debug/netcoreapp3.1/API.pdb

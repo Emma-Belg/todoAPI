@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5P24Ih8140pseWpJgYJpF+LNREl/gJ35nLnN0TKMy+QaueiYbw6E8i2QLuAbcqstIjRfbHWh5X+FoQmqfk2dZA==",
+  "dgSpecHash": "aFgSgkd9CZpPUojyMT1FwwSuZG0Gth3S9g2fjHO4H9Apy1S3vBqTIdDCzTfwOfxFSoyVBj867XMH2H+PqGKofg==",
   "success": true,
-  "projectFilePath": "/home/emma/Documents/C#/API/todoAPI/API.csproj",
+  "projectFilePath": "/home/emma/Documents/C#/API/TodoAPI/API.csproj",
   "expectedPackageFiles": [
     "/home/emma/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/home/emma/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

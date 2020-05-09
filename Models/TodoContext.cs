@@ -1,9 +1,9 @@
 //The database context is the main class that coordinates Entity Framework functionality for a data model. 
 //This class is created by deriving from the Microsoft.EntityFrameworkCore.DbContext class.
 using Microsoft.EntityFrameworkCore;
-using todoAPI.Models;
+using TodoAPI.Models;
 
-namespace TodoApi.Models
+namespace TodoAPI.Models
 {
     public class TodoContext : DbContext
     {

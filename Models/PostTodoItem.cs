@@ -1,12 +1,14 @@
+using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using TodoAPI.Models;
 
-namespace todoAPI.Models
+namespace TodoAPI.Models
 {
     public class PostTodoItem
     {
-        // POST: api/TodoItems
-[Microsoft.AspNetCore.Mvc.HttpPost]
+// POST: api/TodoItems
+[HttpPost]
 public async Task<ActionResult<TodoItem>> PostTodoItem(TodoItem todoItem)
 {
     _context.TodoItems.Add(todoItem);
